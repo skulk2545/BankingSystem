@@ -20,8 +20,8 @@ This project is built using **Object-Oriented Programming (OOPS)** concepts such
 ## **📂 Project Structure**
 BankingSystem/
 ├── data.java // Contains interface and abstract class<br>
-├── CurrentAccount.java // (Optional) Current account logic (if added)<br>
-├── SavingsAccount.java // (Optional) Savings account logic (if added)<br>
+├── CurrentAccount.java //Current account logic<br>
+├── SavingsAccount.java // Savings account logic<br>
 ├── .gitignore // Ignores all .class files<br>
 ├── README.md // Project documentation
 
