@@ -1,27 +1,35 @@
-# 🏦 BankingSystem
+# 💳 Banking System
 
-## **Overview**
-
-The **BankingSystem** project is a simple Java-based simulation of bank operations like:
-
-- Deposit  
-- Withdraw  
-- Check Balance
-
-This project is built using **Object-Oriented Programming (OOPS)** concepts such as:
-
-- **Interfaces**
-- **Abstract Classes**
-- **Inheritance**
-- **Polymorphism**
+A console-based **Banking System** project developed in **Java**, demonstrating core **Object-Oriented Programming (OOP)** concepts and exception handling. The system simulates operations for **Savings** and **Current** accounts, and performs basic transactions like deposit, withdrawal, and transfer.
 
 ---
 
-## **📂 Project Structure**
-BankingSystem/
-├── data.java // Contains interface and abstract class<br>
-├── CurrentAccount.java //Current account logic<br>
-├── SavingsAccount.java // Savings account logic<br>
-├── .gitignore // Ignores all .class files<br>
-├── README.md // Project documentation
+## 🚀 Features
+
+- Object-Oriented Design using:
+  - **Interfaces**
+  - **Abstract Classes**
+  - **Inheritance**
+  - **Polymorphism**
+- Account types:
+  - **Savings Account**
+  - **Current Account**
+- Validations:
+  - Insufficient balance
+  - Invalid amount
+  - Authentication failure
+- Transaction logging and account summaries
+
+---
+
+## 🧠 OOP Concepts Applied
+
+- **Interface** for defining basic banking operations.
+- **Abstract Class** to implement shared behavior across accounts.
+- **Inheritance** to extend functionality for Savings and Current accounts.
+- **Polymorphism** to handle account operations through a common interface.
+
+---
+
+## 🗂 Project Structure
 
